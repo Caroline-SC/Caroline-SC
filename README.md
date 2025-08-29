@@ -26,11 +26,3 @@
 
 ![Caroline GitHub stats](https://github-readme-stats.vercel.app/api?username=Caroline-SC&theme=tokyonight\&hide=issues\&show_icons=true)
 
-## Onde me encontrar
-
-<p align="left">
-  <a href="#" title="Gmail">
-  <img src="https://img.shields.io/badge/-Gmail-FF0000?style=flat-square&labelColor=FF0000&logo=gmail&logoColor=white&linevi2006@gmail.com" alt="Gmail"/></a>
-  <a href="#" title="LinkedIn">
-  <img src="https://img.shields.io/badge/-Linkedin-0e76a8?style=flat-square&logo=Linkedin&logoColor=white&https://br.linkedin.com/in/carol-sc-92357430b" alt="LinkedIn"/></a>
-</p>
