@@ -24,5 +24,3 @@
 ![GitHub](https://img.shields.io/badge/-GitHub-333333?style=for-the-badge&logo=github)
 
 
-![Caroline GitHub stats](https://github-readme-stats.vercel.app/api?username=Caroline-SC&theme=tokyonight\&hide=issues\&show_icons=true)
-
